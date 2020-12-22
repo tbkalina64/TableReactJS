@@ -1,0 +1,9 @@
+.table,
+.row.inputs{
+    max-width: 1000px;
+    margin: 30px auto;
+}
+input,
+button {
+    margin: 10px;
+}
